@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm currently building ym own projects that I think woulc be fun to try out and also collaborating with other creators with their applications. I'm tinkering around with a number of stacks using react/ any kind of Javascript fun stuff, but I also dabble in other languages like Python, Ruby and C#. I hope you all take the time take a look at all the projects I've made and contributed throughout the year. Hope you come by again! ✨
+ I'm currently building my own projects that I think would be fun to try out and also collaborating with other creators with their applications. I'm tinkering around with a number of stacks using react/ any kind of Javascript fun stuff, but I also dabble in other languages like Python, Ruby, and Golang. I hope you all take the time take a look at all the projects I've made and contributed throughout the year. Hope you come by again! ✨
 
 ![Alt Text](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
